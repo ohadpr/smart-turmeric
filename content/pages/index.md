@@ -14,7 +14,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/666183.jpg
     media_position: left
     media_width: fifty
     align: left
