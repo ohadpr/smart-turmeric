@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
-    subtitle: Supports Next
+    subtitle: >-
+      Supports Next.js, Gatsby, Hugo, Jekyll, Eleventy, Contentful, Sanity and
+      more
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
