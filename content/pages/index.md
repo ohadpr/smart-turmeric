@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Big headline
+    title: Edit now or forever hold your peace
     subtitle: >-
       Supports Next.js, Gatsby, Hugo, Jekyll, Eleventy, Contentful, Sanity and
       more
