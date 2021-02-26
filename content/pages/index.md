@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/bold/hero.svg
+    image: images/bold/feature-2.svg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
