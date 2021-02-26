@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Who said the Jamstack is just for developers???
+    title: Big headline
     subtitle: >-
       Supports Next.js, Gatsby, Hugo, Jekyll, Eleventy, Contentful, Sanity and
       more
