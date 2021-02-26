@@ -6,8 +6,6 @@ sections:
     subtitle: >-
       Supports Next.js, Gatsby, Hugo, Jekyll, Eleventy, Contentful, Sanity and
       more
-    content: |
-      Add Stackbit to an existing site in 5 minutes.
     actions:
       - label: Try Now
         url: /pricing
