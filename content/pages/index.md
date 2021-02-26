@@ -9,7 +9,7 @@ sections:
     content: |
       Add Stackbit to an existing site in 5 minutes.
     actions:
-      - label: Try Free
+      - label: Try Freeer
         url: /pricing
         style: primary
       - label: Learn More
