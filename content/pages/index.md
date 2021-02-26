@@ -7,7 +7,7 @@ sections:
       Supports Next.js, Gatsby, Hugo, Jekyll, Eleventy, Contentful, Sanity and
       more
     actions:
-      - label: Add to an existing website
+      - label: Get started
         url: /pricing
         style: primary
       - label: Learn More
